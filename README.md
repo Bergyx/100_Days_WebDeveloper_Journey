@@ -36,35 +36,19 @@ I am documenting my progress in learning programming. My goal is to master Full-
 - ✅ Complete the Udemy Full-Stack Bootcamp
 - [ ] Build 5 portfolio-ready projects
 - [ ] Contribute to 3 open source projects
-- [ ] Land my first junior developer job
+- [ ] Land my first Junior Developer Job
 
 ## 📂 Repository Structure
+```
+/html-css/          ← HTML & CSS practice
+/javascript/        ← JavaScript learning
+/react/             ← React projects
+/backend/           ← Backend development
+/projects/          ← Portfolio projects
+/notes/             ← My notes and cheatsheets
+```
 
-```
-/html-css/
-  /flexbox-practice
-  /grid-layouts
-  /responsive-design
-/javascript/
-  /basics
-  /dom-manipulation
-  /async-programming
-/react/
-  /components
-  /hooks
-  /projects
-/backend/
-  /node-express
-  /databases
-/projects/
-  /portfolio-website
-  /todo-app
-  /weather-app
-/notes/
-  /javascript-cheatsheet.md
-  /react-notes.md
-  /git-commands.md
-```
+*(Folders will be created as I progress)*
 
 ## 🔗 Learning Resources
 
