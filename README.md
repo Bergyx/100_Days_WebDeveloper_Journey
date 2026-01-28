@@ -1,4 +1,4 @@
-# 100 Days WebDeveloper Journey 🚀
+# 100 Days Web Developer Journey 🚀
 
 I am documenting my progress in learning programming. My goal is to master Full-Stack Web Development at a junior level in 100 days.
 
