@@ -94,10 +94,6 @@ I am documenting my progress in learning programming. My goal is to master Full-
 4. **Blog Platform** - Full-Stack (Coming soon)
 5. **E-commerce Site** - Full-Stack (Coming soon)
 
-## 📈 Stats
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Bergyx&theme=dark)
-
 ## 📝 What I Learned Today
 
 Check my recent commits to see what I'm currently working on!
